@@ -1,0 +1,54 @@
+//-----------------------------------------------------------------
+// Game Skeleton Resources
+// RC Source - X.rc - version 2013 v2_12 jan 2013 
+//-----------------------------------------------------------------
+
+//-----------------------------------------------------------------
+// Include Files
+//-----------------------------------------------------------------
+#include "Resource.h"
+
+//-----------------------------------------------------------------
+// Icons
+//-----------------------------------------------------------------
+IDI_BIG			ICON         "big.ico"
+IDI_SMALL		ICON         "small.ico"
+
+//-----------------------------------------------------------------
+// Bitmaps
+//-----------------------------------------------------------------
+
+IDB_MARCOBODY				IMAGE			"resources/marco/MarcoBody.png"
+IDB_MARCOLEGS				IMAGE			"resources/marco/MarcoLegs.png"
+
+IDB_SOLDIER					IMAGE			"resources/Soldier.png"
+
+IDB_PRISONER				IMAGE			"resources/Prisoner.png"
+
+IDB_HELICOPTER				IMAGE			"resources/Helicopter.png"
+
+IDB_MAINHUD					IMAGE			"resources/hud/MainHud.png"
+
+IDB_LARGEHUDNUMBERS			IMAGE			"resources/hud/Time.png"
+
+IDB_SMALLHUDNUMBERS			IMAGE			"resources/hud/Score.png"
+
+IDB_LIVENUMBERS				IMAGE			"resources/hud/Lives.png"
+
+IDB_POWERUP					IMAGE			"resources/PowerUp.png"
+
+IDB_BULLETGRENADE			IMAGE			"resources/Bullet.png"
+
+IDB_BACKGROUND				IMAGE			"./resources/Background.png"
+
+IDB_SUBMARINE				IMAGE			"./resources/Submarine.png"
+
+IDB_EXPLOSION				IMAGE			"./resources/Explosion.png"
+
+IDB_HELIEXPLOSION			IMAGE			"./resources/HeliExplosion.png"
+
+IDB_ROCKETDIVER				IMAGE			"./resources/RocketDiver.png"
+
+IDB_ROCKET					IMAGE			"./resources/Rocket.png"
+
+IDB_MISSIONCOMPLETE			IMAGE			"resources/hud/MissionComplete.png"
